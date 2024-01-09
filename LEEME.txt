@@ -1,6 +1,31 @@
 # sistema_de_votacion
-Sistema de Votación hecho con PHP, jquery y mysql
+Sistema de Votación hecho con PHP, jquery y mysql.
+
+## Requisitos
+Asegúrate de que tu entorno cumple con los siguientes requisitos:
+- Versión PHP: 8.3.1
+- Versión MySQL: 8.0.35
+- Servidor Apache
 
 
-Versión PHP: 8.3.1
-Versión MySQL: 8.0.35
+## Instalación
+
+1. Clona este repositorio en tu máquina local.
+
+2. Dirígete a la carpeta del proyecto.
+
+3. Abre el archivo `functions.php` en un editor de texto y configura las credenciales de tu base de datos. Asegúrate de que coincidan con tu entorno local.
+
+4. Crea una base de datos en tu servidor MySQL con el nombre que prefieras.
+
+5. Importa la base de datos incluida en el repositorio en tu base de datos recién creada. Puedes hacerlo utilizando una herramienta como phpMyAdmin.
+
+6. Inicia un servidor Apache y asegúrate de que PHP esté configurado correctamente.
+
+7. Abre tu navegador web y accede al proyecto.
+
+
+También puede verificar el proyecto en este link: https://yohanrvv18.alwaysdata.net/index.php
+Utilicé el hosting de AlwaysData para hacerlo una página web funcional. Ellos utilizan MariaDB para la base de datos.
+
+
